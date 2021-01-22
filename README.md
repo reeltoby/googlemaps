@@ -1,4 +1,4 @@
-# googlemaps json
+# googlemaps direction json
 https://maps.googleapis.com/maps/api/directions/json?origin=waterloo&destination=welland&key=AIzaSyAUK9DsZZGaTMMpTshAtchs0St92GpjN7M
 
 # valid response
