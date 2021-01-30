@@ -1,6 +1,9 @@
-# places json return for Eiffel Tower
-https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=Eiffel%20Tower&inputtype=textquery&fields=photos,
-formatted_address,name,rating,opening_hours,geometry&key=AIzaSyAUK9DsZZGaTMMpTshAtchs0St92GpjN7M
+#  Eiffel Tower
+Paris, France
+
+# URL
+
+https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=Eiffel%20Tower&inputtype=textquery&fields=photos,formatted_address,name,rating,opening_hours,geometry&key=AIzaSyAUK9DsZZGaTMMpTshAtchs0St92GpjN7M
 
 # valid response
 {
